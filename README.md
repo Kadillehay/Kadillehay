@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I am Erica Grundy! 
+## Hi, I am Karen Dillehay! 
 </br>
 
  <div>
