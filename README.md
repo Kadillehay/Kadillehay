@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <a href = "mailto: kadillehay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
- 
+ </div>
   ![Snake animation](https://github.com/kadillehay/kadillehay/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
