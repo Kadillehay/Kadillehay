@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 </br>
  
  <!-- ![Snake animation](https://github.com/kadillehay/kadillehay/blob/output/github-contribution-grid-snake.svg)-->
-
+ (https://github.com/kadillehay/kadillehay/blob/output/github-contribution-grid-snake.svg)
  
 </div>
