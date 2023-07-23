@@ -1,7 +1,214 @@
-<!--### Hi there 👋-->
+# Hello there 👋, I'm Karen Dillehay
+
+### Full Stack Software Developer (Java/JavaScript/Spring/Maven/Hibernate/SQL)
+
+- 🔭 I’m currently working on: Full Stack Web Apps 
+- 🌱 I’m currently learning: new IDEs, more in depth JS, and React
+- 💬 Ask me about my time as an ICU RN (10 years) and what I'm working on next!
+- ⚡ Fun fact: I live in far north Minnesota, and love travelling
+
+<br/>
+
+
+<table>
+ g<!--   <tr>
+        <th>My Blog</th>
+        <th>My Website</th>
+        <th>My CV</th>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+        </td>
+        <td>
+            <a href="https://colinbut.github.io/">🌐</a>
+        </td>
+        <td>
+            <a href="https://colinbut.github.io/online-resume">📃</a>
+        </td>
+    </tr>
+</table> -->
+
+
+
+### Contact me:
+
+<!--<a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a> -->
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/karen-dillehay-5a7177a//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<!--<a href="https://www.pinterest.co.uk/colinbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a> -->
+
+### Toolset
+
+<table>
+    <tr>
+        <td>Automation Tooling</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Cloud Engineering</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a> -->
+        </td>
+    </tr>
+    <tr>
+     <!--   <td>CI/CD</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/circleci/circleci-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/travis/travis-plain.svg" width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>SysOps</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/linux/linux-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/unix/unix-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bash/bash-original.svg" width="40" height="40"/></a>
+        </td>
+    </tr> -->
+    <tr>
+        <td>Programming/Backend</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
+         <!--   <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a> -->
+        </td>
+    </tr>
+  <!---  <tr>
+        <td>Monitoring & Observability</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" width="40" height="40"/></a>
+        </td>
+    </tr> -->
+    <tr>
+        <td>Frontend Dev</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
+       <!--     <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redux/redux-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/yeoman/yeoman-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>Databases/Datastores</td>
+        <td>
+        <!--    <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a> -->
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
+          <!--   <a href=""><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40" height="40"/></a> -->
+           <!--  <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>IDEs</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+        <!--     <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>Testing</td>
+        <td>
+          <!--   <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/cucumber/cucumber-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/philadelphiapact/philadelphiapact-icon.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a> -->
+        </td>
+    </tr>
+    <tr>
+        <td>Others/Misc</td>
+        <td>
+           <!--  <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gradle/gradle-plain.svg" width="40" height="40"/></a> -->
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
+             <a href=""><img src=""/></a> -->
+        </td>
+    </tr>
+</table>
+
+
+<br/>
+
+<!--### Support my Work
+<br/>
+<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
+
+
+<br />-->
+
+### My GitHub Stats
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=kadillehay&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadillehay"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=kadillehay&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadillehay&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>
+
+
+
 
 <!--
-**Kadillehay/Kadillehay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**colinbut/colinbut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,38 +221,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I'm Karen! 
-</br>
-
- <div>
-  <a href="https://github.com/kadillehay">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadillehay&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadillehay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
- 
- ## Skills
-<div style="display: inline_block"><br>
- 
-  <img height="50" align="center" alt="Erica-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">        
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       
-  <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">-->
-</div>
-  
-</br>
-
-## Contact 
-<div> 
-  <a href="https://www.linkedin.com/in/karen-dillehay-5a7177a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: kadillehay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
- 
- <!-- ![Snake animation](https://github.com/kadillehay/kadillehay/blob/output/github-contribution-grid-snake.svg)-->
-
- 
-</div>
