@@ -11,7 +11,7 @@
 
 
 <table>
- g<!--   <tr>
+ <!--   <tr>
         <th>My Blog</th>
         <th>My Website</th>
         <th>My CV</th>
