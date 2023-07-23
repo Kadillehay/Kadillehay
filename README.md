@@ -41,7 +41,7 @@
 
 <table>
     <tr>
-        <td>Automation Tooling</td>
+   <!--     <td>Automation Tooling</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/></a>
