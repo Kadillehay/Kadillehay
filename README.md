@@ -101,25 +101,13 @@
 <!--             <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a> --> 
 <!--         </td> -->
     </tr>
-    <tr> 
-                <td>Monitoring & Observability</td>
-        <td>
-<!--             <a href=""><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/appdynamics/appdynamics-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" width="40" height="40"/></a> -->
-        </td>  
-    </tr> 
+
     <tr>
         <td>Frontend Dev</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/Kadillehay/Kadillehay/assets/117693236/074592c0-d1a2-4d4e-9d4f-636b6200b40b" width="40" height="40"/></a>
-<!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
+          <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redux/redux-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/yeoman/yeoman-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
