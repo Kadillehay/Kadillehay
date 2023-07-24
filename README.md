@@ -125,6 +125,9 @@
 <!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg" width="40" height="40"/></a> -->
 <!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a> -->
 <!--             <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a> -->
+                <a href=""><img src="https://github.com/Kadillehay/Kadillehay/assets/117693236/074592c0-d1a2-4d4e-9d4f-636b6200b40b" width="40" height="40"/></a>
+
+                
         </td>
     </tr>
     <tr>
