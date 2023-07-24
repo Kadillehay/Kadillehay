@@ -11,7 +11,7 @@
 
 
 <table>
-  <tr>
+<!--   <tr>
         <th>My Blog</th>
         <th>My Website</th>
         <th>My CV</th>
@@ -26,7 +26,7 @@
         <td>
             <a href="https://colinbut.github.io/online-resume">📃</a>
         </td>
-    </tr>
+    </tr> -->
 </table> 
 
 
