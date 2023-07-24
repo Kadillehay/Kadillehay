@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: Full Stack Web Apps 
 - 🌱 I’m currently learning: new IDEs, more in depth JS, and React
-- 💬 Ask me about my time as an ICU RN (10 years) and what I'm working on next!
+- 💬 Ask me about: my time as an ICU RN (10 years) and what I'm working on next!
 - ⚡ Fun fact: I live in far north Minnesota, and love travelling
 
 <br/>
