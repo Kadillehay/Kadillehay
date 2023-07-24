@@ -41,7 +41,7 @@
 ### Toolset
 
 <table>
-    <tr> 
+<!--     <tr> 
         <td>Automation Tooling</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/></a>
@@ -66,7 +66,7 @@
              <a href=""><img src=""/></a>
             <a href=""><img src=""/></a> 
        </td> 
-     </tr> 
+     </tr>  -->
     <tr>
         <td>CI/CD</td>
         <td>
