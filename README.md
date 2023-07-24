@@ -65,7 +65,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a> -->
             <!-- <a href=""><img src=""/></a>
             <a href=""><img src=""/></a> -->
-<!--         </td> 
+<!--         </td> -->
     </tr>
     <tr>
         <td>CI/CD</td>
