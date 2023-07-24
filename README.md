@@ -153,7 +153,7 @@
             <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
         </td>
     </tr>
-    <tr>
+<!--     <tr>
         <td>Testing</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/cucumber/cucumber-plain.svg" width="40" height="40"/></a>
@@ -162,7 +162,7 @@
             <a href=""><img src=""/></a>
             <a href=""><img src=""/></a> -->
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td>Others/Misc</td>
         <td>
