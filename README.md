@@ -101,7 +101,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a> -->
         </td>
     </tr>
-    <tr>
+<!--     <tr>
         <td>Monitoring & Observability</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40"/></a>
@@ -113,7 +113,7 @@
             <a href=""><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" width="40" height="40"/></a>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td>Frontend Dev</td>
         <td>
