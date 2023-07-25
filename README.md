@@ -15,7 +15,7 @@
 <!--         <th>My Blog</th> -->
         <th>My Website</th>
          <td>
-            <a href="https://www.fcb2c.com//">🌐</a>
+            <a href="https://www.fcb2c.com/">🌐</a>
         </td>
 <!--           <th>My CV</th> --> -->
     </tr>
