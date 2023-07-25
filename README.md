@@ -11,13 +11,17 @@
 
 
 <table>
-<!--   <tr>
-        <th>My Blog</th>
+  <tr>
+<!--         <th>My Blog</th> -->
         <th>My Website</th>
-        <th>My CV</th>
+         <td>
+            <a href="https://https://www.fcb2c.com//">🌐</a>
+        </td>
+          
+<!--         <th>My CV</th> -->
     </tr>
     <tr>
-        <td>
+<!--         <td>
             <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
         </td>
         <td>
@@ -25,8 +29,8 @@
         </td>
         <td>
             <a href="https://colinbut.github.io/online-resume">📃</a>
-        </td>
-    </tr> -->
+        </td> -->
+    </tr> 
 </table> 
 
 
