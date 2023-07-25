@@ -17,7 +17,7 @@
          <td>
             <a href="https://www.fcb2c.com/">🌐</a>
         </td>
-<!--           <th>My CV</th> --> -->
+<!--           <th>My CV</th> -->
     </tr>
 <!--     <tr>
        <td>
