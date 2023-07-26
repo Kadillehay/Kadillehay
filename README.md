@@ -17,7 +17,7 @@
          <td>
 <!--             <a href="https://www.fcb2c.com/">🌐</a> -->
 <!--            <a href="https://www.fcb2c.com/">🌐 From Code Blue to Coding</a> -->
-           <a href="https://www.fcb2c.com/">🌐 <img src= ![kaylee logo 2](https://github.com/Kadillehay/Kadillehay/assets/117693236/ca579504-6f4a-4923-9807-8626055b7e51)</a>
+           <a href="https://www.fcb2c.com/">🌐 <img src= ![kaylee logo 2]("https://github.com/Kadillehay/Kadillehay/assets/117693236/ca579504-6f4a-4923-9807-8626055b7e51")</a>
         </td>
 <!--           <th>My CV</th> -->
     </tr>
