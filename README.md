@@ -203,7 +203,9 @@
             <img src="https://github-readme-stats.vercel.app/api?username=kadillehay&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadillehay&langs_count=10&layout=compact"/>
+<!--             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadillehay&langs_count=10&layout=compact"/> -->
+           <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kadillehay"/>
+<!--              )](https://github.com/anuraghazra/github-readme-stats) --> 
 <!--               &hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby,javascript"/> -->
         </td>
     </tr>
