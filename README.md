@@ -195,7 +195,7 @@
             <img src="https://github-profile-trophy.vercel.app/?username=kadillehay&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadillehay"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadillehay&theme=tokyonight"/>
         </td> 
     </tr>
     <tr>
@@ -204,7 +204,7 @@
         </td>
         <td>
 <!--             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadillehay&langs_count=10&layout=compact"/> -->
-           <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kadillehay"/>
+           <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kadillehay&theme=tokyonight"/>
 <!--              )](https://github.com/anuraghazra/github-readme-stats) --> 
 <!--               &hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby,javascript"/> -->
         </td>
