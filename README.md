@@ -45,7 +45,7 @@
 
 ### My Resume:
 
-<img src="https://github.com/Kadillehay/Kadillehay/assets/117693236/8d03998d-444b-4e5a-b6d0-d3e624993f97"  width="60" height="60"/>
+<img src="https://github.com/Kadillehay/Kadillehay/assets/117693236/8d03998d-444b-4e5a-b6d0-d3e624993f97"  width="70" height="70"/>
   
 
 
