@@ -45,7 +45,7 @@
 
 ### My Resume:
 
-![Alt text](![myResumeQR](https://github.com/Kadillehay/Kadillehay/assets/117693236/8d03998d-444b-4e5a-b6d0-d3e624993f97)
+<img src="https://github.com/Kadillehay/Kadillehay/assets/117693236/8d03998d-444b-4e5a-b6d0-d3e624993f97"  width="40" height="40"/>
   
 
 
