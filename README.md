@@ -43,6 +43,12 @@
  <a href = "mailto: kadillehay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 <a href="https://www.pinterest.com/KarenFCB2C"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a> 
 
+### My Resume:
+
+![Alt text](![myResumeQR](https://github.com/Kadillehay/Kadillehay/assets/117693236/8d03998d-444b-4e5a-b6d0-d3e624993f97)
+  
+
+
 ### Toolset
 
 <table>
