@@ -212,7 +212,7 @@
 <!--               &hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby,javascript"/> -->
            </td>
        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadillehay&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadillehay&langs_count=10&layout=compacttheme=tokyonight"/>
         </td>
     </tr>
 </table>
