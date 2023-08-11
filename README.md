@@ -210,6 +210,9 @@
            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kadillehay&theme=tokyonight"/>
 <!--              )](https://github.com/anuraghazra/github-readme-stats) --> 
 <!--               &hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby,javascript"/> -->
+           </td>
+       <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
 </table>
