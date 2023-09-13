@@ -2,10 +2,20 @@
 
 ### Full Stack Software Developer (Java/JavaScript/Spring/Maven/Hibernate/SQL)
 
-- 🔭 I’m currently working on: Full Stack Web Apps 
-- 🌱 I’m currently learning: new IDEs, more in depth JS, and React
-- 💬 Ask me about: my time as an ICU RN (10 years) and what I'm working on next!
-- ⚡ Fun fact: I live in far north Minnesota, and love travelling
+- 🛠️ My technical toolbox includes Java, JavaScript, Spring, Maven, and Firebase Auth for robust security. I've built numerous full-stack web applications that have not only met but exceeded expectations. Quality is at the core of my work, and I rely on code testing to ensure top-notch performance and reliability.
+
+🎨 Beyond coding, I have a keen eye for design and understand the importance of creating intuitive and visually appealing user interfaces. My front-end skills encompass HTML, CSS, and Tailwind CSS, allowing me to craft seamless user experiences.
+
+🛢️ My familiarity with multiple databases and version control systems like Git ensures a solid foundation for database management and collaborative development.
+
+🤝 If you're seeking a developer who can not only write exceptional code but also contribute to design and deliver results, I'd love to connect. Let's explore how my skills can help your organization achieve its goals.
+
+
+
+
+
+
+
 
 <br/>
 
